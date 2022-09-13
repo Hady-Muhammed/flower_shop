@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flower_shop/static/css/main.c907f085.css",
-    "main.js": "/flower_shop/static/js/main.539ae2cf.js",
+    "main.js": "/flower_shop/static/js/main.3d0e5da8.js",
     "static/media/about-vid.mp4": "/flower_shop/static/media/about-vid.aae93b1c4f6ee4aabc08.mp4",
     "static/media/contact-img.svg": "/flower_shop/static/media/contact-img.631a6c01658e28cbfacc76e85202c790.svg",
     "static/media/pic-2.png": "/flower_shop/static/media/pic-2.1e1ca892c93bd9c8e0a2.png",
@@ -20,10 +20,10 @@
     "static/media/img-3.jpg": "/flower_shop/static/media/img-3.aba6eec3cae19b8512f1.jpg",
     "index.html": "/flower_shop/index.html",
     "main.c907f085.css.map": "/flower_shop/static/css/main.c907f085.css.map",
-    "main.539ae2cf.js.map": "/flower_shop/static/js/main.539ae2cf.js.map"
+    "main.3d0e5da8.js.map": "/flower_shop/static/js/main.3d0e5da8.js.map"
   },
   "entrypoints": [
     "static/css/main.c907f085.css",
-    "static/js/main.539ae2cf.js"
+    "static/js/main.3d0e5da8.js"
   ]
 }
