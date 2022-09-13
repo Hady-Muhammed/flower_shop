@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/flower_shop/static/css/main.c907f085.css",
+    "main.js": "/flower_shop/static/js/main.539ae2cf.js",
+    "static/media/about-vid.mp4": "/flower_shop/static/media/about-vid.aae93b1c4f6ee4aabc08.mp4",
+    "static/media/contact-img.svg": "/flower_shop/static/media/contact-img.631a6c01658e28cbfacc76e85202c790.svg",
+    "static/media/pic-2.png": "/flower_shop/static/media/pic-2.1e1ca892c93bd9c8e0a2.png",
+    "static/media/pic-1.png": "/flower_shop/static/media/pic-1.b87530549135d85e4d78.png",
+    "static/media/pic-3.png": "/flower_shop/static/media/pic-3.40df90e38b2dfbf93b9c.png",
+    "static/media/img-2.jpg": "/flower_shop/static/media/img-2.4bb8a10edc41d890f69c.jpg",
+    "static/media/img-1.jpg": "/flower_shop/static/media/img-1.d0de35ad12c65970cd50.jpg",
+    "static/media/img-6.jpg": "/flower_shop/static/media/img-6.86e567db787264f8ba9f.jpg",
+    "static/media/img-9.jpg": "/flower_shop/static/media/img-9.bdcc694db3a335897d3f.jpg",
+    "static/media/avatar.jpg": "/flower_shop/static/media/avatar.7912949c6bda4b5ff40d.jpg",
+    "static/media/img-8.jpg": "/flower_shop/static/media/img-8.041baebef1d22f829054.jpg",
+    "static/media/img-7.jpg": "/flower_shop/static/media/img-7.1513ca8ae96cb91ae55a.jpg",
+    "static/media/img-4.jpg": "/flower_shop/static/media/img-4.13c57ab665bd329e7bab.jpg",
+    "static/media/img-5.jpg": "/flower_shop/static/media/img-5.2a25059fcc5421a0bf93.jpg",
+    "static/media/home-bg.jpg": "/flower_shop/static/media/home-bg.c6172ca03e040129f9fb.jpg",
+    "static/media/img-3.jpg": "/flower_shop/static/media/img-3.aba6eec3cae19b8512f1.jpg",
+    "index.html": "/flower_shop/index.html",
+    "main.c907f085.css.map": "/flower_shop/static/css/main.c907f085.css.map",
+    "main.539ae2cf.js.map": "/flower_shop/static/js/main.539ae2cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c907f085.css",
+    "static/js/main.539ae2cf.js"
+  ]
+}
