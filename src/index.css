@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+main {
+  background-image: url(./assets/images/home-bg.jpg);
+}

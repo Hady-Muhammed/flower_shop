@@ -1,0 +1,9 @@
+[1] Create Data
+    - Id
+    - Price
+    - Discount
+    - Image
+    - Description
+
+[2] Create Product Card
+[3] Loop Over The Array Of Objects To Display Data
